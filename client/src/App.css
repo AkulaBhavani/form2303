@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: blueviolet;
+  padding: 30px;
+}
+form label{
+  width: 100px;
+
+  display: inline-block;
+}
+form div{
+  margin: 15px
+}
+.imagePreview{
+  width: 150px;
+  height: 150px;
+  background-color: gray;
+}
+nav{
+  background-color: bisque;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+nav a{
+  font-size: 2rem;
+}
